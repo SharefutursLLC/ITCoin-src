@@ -1,0 +1,9 @@
+Building ITCoin
+
+See doc/readme-qt.rst for instructions on building ITCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ITCoin.
+
+See doc/build-*.txt for instructions on building ITCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ITCoin.
